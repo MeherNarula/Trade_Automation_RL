@@ -20,7 +20,7 @@ Below are some repository links showcasing the work of our mentees:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/MeherNarula/Trade_Automation_RL>
    ```
 2. Install dependencies:
    ```bash
