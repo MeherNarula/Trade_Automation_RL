@@ -31,6 +31,12 @@ I developed a trading client using Double Dueling Deep Q-Networks (DQN) to train
 - Performance in simulated market conditions improved, but **real-world testing remains a challenge**.
 - Future work includes fine-tuning hyperparameters and exploring multi-agent reinforcement learning.
 
+
+## Report
+For a detailed explanation of the methodology, implementation, results, and conclusions, refer to the full project report:
+
+[Automated Stock Trading using Reinforcement Learning - Report](https://www.overleaf.com/read/pqhbmqbxsdks#32b6d0)
+
 ---
 This project has been an insightful experience in reinforcement learning for financial applications. By iterating and refining the approach, I gained a deeper understanding of **Dueling DQNs, reward shaping, and feature engineering in trading environments**.
 
